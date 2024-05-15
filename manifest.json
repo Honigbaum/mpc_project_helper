@@ -13,7 +13,8 @@
     "https://www.makeplayingcards.com/",
     "https://www.printerstudio.co.uk/",
     "https://www.printerstudio.com/",
-    "https://www.printerstudio.com.hk/"
+    "https://www.printerstudio.com.hk/",
+    "https://www.printerstudio.de/"
   ],
   "background": {
     "service_worker": "src/background.ts"
@@ -24,7 +25,8 @@
         "https://www.makeplayingcards.com/*",
         "https://www.printerstudio.co.uk/*",
         "https://www.printerstudio.com/*",
-        "https://www.printerstudio.com.hk/*"
+        "https://www.printerstudio.com.hk/*",
+        "https://www.printerstudio.de/*"
       ],
       "js": [
         "src/content.tsx"
@@ -47,7 +49,8 @@
         "https://www.makeplayingcards.com/*",
         "https://www.printerstudio.co.uk/*",
         "https://www.printerstudio.com/*",
-        "https://www.printerstudio.com.hk/*"
+        "https://www.printerstudio.com.hk/*",
+        "https://www.printerstudio.de/*"
       ]
     }
   ]
